@@ -1,0 +1,93 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (System)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="C:\Program Files\Python37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/python/mylibs" type="simple" />
+            <root url="file://C:/Program Files/Python37/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python37" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-991083293" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/python/working/1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (vnc2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="D:\python\venv\vnc2\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/python/mylibs" type="simple" />
+            <root url="file://D:/python/venv/vnc2/Lib" type="simple" />
+            <root url="file://D:/python/venv/vnc2/Scripts" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python37/DLLs" type="simple" />
+            <root url="file://D:/python/venv/vnc2" type="simple" />
+            <root url="file://D:/python/venv/vnc2/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/2129448337" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/python/working/GUI/vnc2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (email-h-qd841Y)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="D:\python\venv\email-h-qd841Y\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/python/mylibs" type="simple" />
+            <root url="file://D:/python/venv/email-h-qd841Y/Lib" type="simple" />
+            <root url="file://D:/python/venv/email-h-qd841Y/Scripts" type="simple" />
+            <root url="file://C:/Program Files/Python37/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python37/DLLs" type="simple" />
+            <root url="file://D:/python/venv/email-h-qd841Y" type="simple" />
+            <root url="file://D:/python/venv/email-h-qd841Y/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1598343349" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/python/working/mail/email" />
+    </jdk>
+  </component>
+</application>
