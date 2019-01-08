@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="mypy" description="Typing testing" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="mypy" description="Typing testing" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="C:\Program Files\Python37\Scripts\mypy.exe" />
-      <option name="PARAMETERS" value="--ignore-missing-imports $FilePath$" />
+      <option name="PARAMETERS" value="--ignore-missing-imports $FileRelativePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
